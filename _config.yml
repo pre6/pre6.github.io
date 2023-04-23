@@ -28,7 +28,7 @@ twitter_username: preethivez
 github_username:  pre6
 
 # Build settings
-theme: blank
+theme: minima
 plugins:
   - jekyll-feed
 
