@@ -1,21 +1,8 @@
 ---
 layout: post
-title:  "Order, Chaos and Intelligence"
+title:  "the start"
 date:   2023-04-23 00:36:34 -0400
 categories: ideas
 ---
-I have always had this idea about Order and Chaos floating around in my brain. But i have neither the expertise or the mathematical logic to create some formal theories surrounding this idea... yet. Obviously my definition of order is very loose. I hope you can over look this for now. 
-
-The idea was always there in a way i couldn't verbalize until i had a conversation with my dad. My dad was talking about how kids these days dont use calculators, how they dont learn basic arithmetic anymore and how its so easy to do basic arithemetic. I thought about what made something "easy". In my dad's day, he was probably having to learn a lot of other things even besides school. My dad's family were farmers and at a young age he was sent off to the farm to work with his grandparents. He probably had to do a bunch of things that i never had to do growing up. For example, he probably had to think about animals, how to fix wounds or something, how to cook, like random things would appear in his life and he had to fix them. Me not so much. I was dropped off to school. I was given a lunch, I had not chores or tasks. The most i would have had to "think" would have been to navigate and understand the social structures of my school. In other words emotional thinking. ( something i randomly rememebr and hate is when our generation talk about how the previous generations were never emoitional and ruined them, like in their time they simpily didnt have to think about it much. they were busy with other things anyways,). 
-
-but this is besides the point. Caculators. I have this theory that the previous generations goal is always to make the next generation more ordered. or more generally the future more ordered. Like calculators. or industiral and green revolution. for my dads grandfather it was working to get food. they didnt go to school as there was simily no need to. Now you have food on the table, so their children were forced to go to school (even thought they never liked it). Not my fathers generation, going to school was the norm and not it was time to use their education. now its me and i have food on the table, education, the ability to do things with my education and many many other things that make my life so simple. So much so that we forgot how to put in energy to learn something. For my father it was the norm to put in energy to learn, or as i like to say it : a more ordered system. 
-
-Learning, in my opinion is the act of making things more ordered. But like any system you need to put in 'energy' to make things more orderd. I also like to use the word 'suffering' for 'energy'. So for my dad putting in a certain about of 'energy' to learn something was the norm, but he has removed that for me. He has alleviated that level of suffering for me. In other words my world is more orderd than his, my baseline of order is higher than his which is higher than his dad which is higher than his. This sparked in me the idea of order and how we must word and expend energy to create a more orered something.
-
-A lot of the thing we do is the act of making things more orderd. One that jumps out at me is exercising. We expend energy or suffer to make our bodies more ordered. Then I started to realize that we aren't just creating order form generation to generation, but we are attracted to more ordered things. For example, we love to wacth TV. TV watching has more order, or has less degrees of freedom compared to reading. In fact, people say that reading is more 'harder' or 'takes more energy'. This is because ( i speculate) because TV has less degrees of freedome. In terms of senses, vision and hearing are satisfied whilst watching TV. But when reading a book you don't have either. You have to expend energy to create it. On TikTok we are attracted to people who dance in a specifc way which i assume has more order compared to other things. 
-
-This overall is why learning is hard, and perhaps harder than back in the day when they would always be thinking problem solving etc. But i think its most interesting that we as humans love order and love creating things with order in it.
-
-I really want to formalize this idea and connect it in some way to AGI and the development of AGI systems, but I guess thats for later. 
-
-Till later
+Coming up: 
+Ideas about Order, Chaos and Intellegence
