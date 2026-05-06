@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: preethi vezhavendan
+description: a little more about me
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://pre6.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  GitHub: https://github.com/pre6
+  Resume: https://link-to-your-resume.pdf
