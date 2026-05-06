@@ -1,5 +1,6 @@
 ---
 title: thoughts
+layout: home
 nav_order: 3
 ---
 
