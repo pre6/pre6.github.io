@@ -7,7 +7,8 @@ nav_order: 2
 # Preethi Vezhavendan
 
 **Data Integration Specialist · Data Scientist**
-[preethi.vez@gmail.com](mailto:preethi.vez@gmail.com) · [linkedin.com/in/preethi-vez](https://linkedin.com/in/preethi-vez) · [github.com/pre6](https://github.com/pre6)
+
+[linkedin.com/in/preethi-vez](https://linkedin.com/in/preethi-vez) · [github.com/pre6](https://github.com/pre6)
 
 ---
 
