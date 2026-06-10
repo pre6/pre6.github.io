@@ -7,8 +7,6 @@ nav_order: 2
 # Preethi Vezhavendan
 
 **Data Integration Specialist · Data Scientist**
-
-
 [preethi.vez@gmail.com](mailto:preethi.vez@gmail.com) · [linkedin.com/in/preethi-vez](https://linkedin.com/in/preethi-vez) · [github.com/pre6](https://github.com/pre6)
 
 ---
@@ -18,11 +16,13 @@ nav_order: 2
 ### Data Integration Specialist — ERIS (Environmental Risk Information Services)
 *Aug 2024 – Jan 2026 · North York, ON*
 
-ERIS was my first real immersion in a data engineering environment, and it confirmed something I already suspected about myself: I'm drawn to problems where software can quietly take the pain out of someone's day.
+- Conceived and delivered an NLP-based address parsing system using spaCy NER, pitching the idea directly to the Director of Data and bringing it to production six months later in collaboration with the lead data engineer — improving geocoding accuracy by ~50% and significantly reducing manual processing time.
+- Designed and maintained scalable ETL pipelines using PL/SQL and Python, integrating structured and spatial datasets into enterprise GIS systems.
+- Built automated data validation and QA frameworks to ensure high data integrity across ingestion and transformation stages.
+- Integrated geospatial datasets (SHP, GDB) into GIS pipelines, ensuring compatibility with ESRI geocoding and spatial analysis tools.
+- Trained and onboarded new team members, ensuring effective knowledge transfer and adherence to best practices.
 
-The biggest thing I built there was an NLP-based address parsing system. Address standardization was tedious, error-prone work that our team did manually in SQL. I pitched the idea directly to the Director of Data, built a proof of concept using spaCy NER, and had it in production six months later — working closely with the lead data engineer to integrate it into our existing pipeline. Geocoding accuracy improved by around 50%, and team members noticeably spent far fewer hours on manual parsing. Making people's work better in ways that compound is what I love doing.
-
-Beyond that project, I designed and maintained ETL pipelines in PL/SQL and Python, built automated data validation and QA frameworks, and integrated geospatial datasets (SHP, GDB) into ESRI-compatible GIS workflows. I also trained and onboarded new team members, which I found genuinely rewarding — good knowledge transfer is its own kind of engineering problem.
+ERIS was a first real immersion in a corporate data engineering environment, and it confirmed something already suspected: the most satisfying problems are the ones where software can quietly take the pain out of someone's day. The address parser started as a personal project — address standardization was tedious, error-prone work the team did manually in SQL, and it seemed like exactly the kind of thing a model could learn. The idea was pitched directly to the Director of Data, a proof of concept was built, and six months later it was in production. Working closely with the lead data engineer to fit it into the existing pipeline, and then watching team members spend noticeably fewer hours on parsing — that's the kind of outcome that makes the work feel worth it.
 
 **Key tools:** Python · spaCy · PL/SQL · dbt · ESRI/GIS · ETL pipeline design
 
@@ -31,25 +31,35 @@ Beyond that project, I designed and maintained ETL pipelines in PL/SQL and Pytho
 ### Data Analyst — ERIS
 *Jul 2023 – Aug 2024 · North York, ON*
 
-This role was where I got comfortable with the messy, real-world side of data. I managed ingestion from a range of formats (CSV, XLSX, SHP, GDB), wrote complex SQL and PL/SQL validation procedures, and applied regex-based address standardization as a precursor to what would eventually become the NLP parser. I also improved a JavaScript web scraper for cleaner extraction from RESTful APIs.
+- Managed data ingestion from various formats (CSV, XLSX, SHP, GDB) into a data staging area.
+- Developed complex SQL queries and PL/SQL procedures for data validation and compliance.
+- Applied regular expressions for address standardization, ensuring compatibility with ESRI geocoding.
+- Improved a JavaScript web scraper for more accurate data extraction from RESTful APIs.
+- Collaborated with teams to ensure data solutions met client needs and project requirements.
+
+This role was where comfort with the messy, real-world side of data was built. The regex-based address work done here was the direct precursor to what eventually became the NLP parser — a reminder that good tools often grow out of frustration with the manual version of the same problem.
 
 ---
 
 ### HRMS Data Specialist (Contract) — Elton Manufacturing
 *May 2023 – Sep 2023 · Milton, ON*
 
-Led the technical assessment and migration from a legacy HR system to HUMI. I audited, cleansed, and normalized datasets in Excel, defined field mappings, and partnered with stakeholders to translate HR requirements into data architecture decisions.
+- Led evaluation and technical assessment of the HUMI HR management system to determine operational fit and data architecture compatibility.
+- Partnered with business stakeholders to translate HR requirements into system-level functional specifications and migration needs.
+- Designed and executed a structured data migration plan from the legacy HR system to HUMI, including dataset auditing, cleansing, normalization, and validation in Excel.
+- Defined required data schemas and field mappings to ensure integrity and completeness during system transition.
 
 ---
 
 ### Assistant Center Director & Instructor — Mathnasium
 *Oct 2017 – Jun 2025 · Aurora, ON*
 
-Mathnasium is where I first wrote software to solve a real problem — and where I learned that teaching math well means teaching the *why* before the *what*. That philosophy stuck with me.
+- Built a Python (Tkinter) scheduling automation tool that converted a manual CSV workflow into an auto-populating Google Sheet with OAuth calendar sync, reducing administrative workload by ~75%.
+- Integrated Google OAuth for direct calendar synchronization and improved operational efficiency.
+- Trained and mentored instructors; implemented structured teaching strategies that improved student performance from 60% to 90%+.
+- Led scheduling operations and day-to-day center management.
 
-On the technical side, I built a Python (Tkinter) automation tool that turned a CSV-based scheduling workflow into an auto-populating Google Sheet with OAuth calendar sync, cutting administrative workload by about 75%. It was my first real project with Git, branches, and deploying something people actually used every day.
-
-As an instructor, I saw students go from 60–70% to 90%+ — not through drilling, but through building genuine understanding from the ground up. I owe a lot of my own mathematical intuition to the Mathnasium approach, and I carried it through my undergraduate coursework at UofT, where my math grades were consistently my strongest.
+Mathnasium is where writing software to solve a real problem first clicked. The scheduling tool started small — turning a CSV into a spreadsheet — and grew into something with OAuth, Git branches, and actual users depending on it every day. It was a first taste of what it means to ship something. As an instructor, the philosophy that stuck was always teaching the *why* before the *what*: understanding from the root up, not drilling from the top down. That approach shaped how mathematics was learned at university too — the math scores were always the strongest, and that's not a coincidence.
 
 ---
 
@@ -58,11 +68,12 @@ As an instructor, I saw students go from 60–70% to 90%+ — not through drilli
 ### Master of Data Science — University of British Columbia
 *Sept 2025 – Present · Kelowna, BC*
 
-The MDS program moves fast by design, and it taught me as much about focus and collaboration as it did about methods. A few highlights:
+- Completed coursework across machine learning, statistical inference, data engineering, and visualization.
+- **[Project placeholder]** — [brief description]
+- **[Project placeholder]** — [brief description]
+- **Capstone with Synopsys/ANSYS** — developed a predictive model in a real business context, working with stakeholders to define the prediction target before any modelling began.
 
-- **[Project placeholder]** — [brief description]
-- **[Project placeholder]** — [brief description]
-- **Capstone with Synopsys/ANSYS** — Worked with a team to build a predictive model in a real business context. The hardest part was the beginning: aligning with stakeholders on what we were actually trying to predict. Once we had that locked in, everything else followed. It was my clearest lesson in the difference between a well-posed ML problem and an ambiguous one.
+The MDS program moves fast by design, and it taught as much about focus and working with people under pressure as it did about methods. The capstone was the clearest lesson in what separates a well-scoped ML problem from an ambiguous one — the hardest part wasn't the model, it was the alignment.
 
 ---
 
@@ -78,35 +89,48 @@ Double Major: Neuroscience & Physiology · Minor: Mathematics
 ### Address Parser *(personal → ERIS production)*
 *Jun 2024 – Jun 2025*
 
-What started as a personal project to understand NLP properly became the tool I pitched and deployed at ERIS. Built using spaCy with custom NER models to extract address components (street names, cities, postal codes) from noisy, non-standard inputs. I documented all training data nuances in a Jupyter Notebook and worked toward SQL database integration for seamless pipeline querying.
+- Developed an address parser using spaCy to standardize and extract address components from varied, noisy formats.
+- Designed custom NER models to identify street names, cities, postal codes, and other address elements.
+- Documented all training data nuances in a Jupyter Notebook.
+- Pitched to ERIS and adopted into the production workflow in June 2025.
+- Working toward SQL database integration for seamless pipeline querying.
+
+What started as a project to properly understand NLP became something used in production. The distance between a personal experiment and a real tool turned out to be mostly about having the confidence to pitch it.
 
 ---
 
 ### Nand to Tetris
 *Self-directed*
 
-I completed this course because I wanted to understand computers at a level most data practitioners don't bother with. Starting from logic gates and building up to a working computer from scratch answered questions I'd been carrying for years. It also led me to a current side project: I'm physically building the Differential Analyzer — the machine that led Claude Shannon to write his 1936 master's thesis on applying Boolean algebra to relay circuits. I want to understand what Shannon saw when he sat down at that machine.
+- Completed the full Nand to Tetris curriculum, building a working computer from logic gates up.
+- Currently constructing a physical Differential Analyzer — the type of machine that led Claude Shannon to write his 1936 master's thesis on applying Boolean algebra to relay circuit design.
+
+There's a particular kind of satisfaction in understanding something at the level it was first discovered. Computers are used every day in this field and it felt important to know what they actually are — not just how to use them. Nand to Tetris answered a lot of those questions, and the Differential Analyzer project is an attempt to answer the next one: what did Shannon see when he sat down at that machine that made everything click?
 
 ---
 
 ### Computational Model of the Retina
 *Jun 2024 – Present*
 
-Working toward a computational model of the retina to analyze information loss across visual processing layers. Ongoing — documented in a Jupyter Notebook as it develops.
+- Building a computational model of the retina to analyze information loss across visual processing layers.
+- Progress documented in a Jupyter Notebook.
 
 ---
 
 ### Neuromatch Academy
 *July 2023 · [neuromatch.io](https://neuromatch.io)*
 
-Intensive computational neuroscience program. Built models of stochastic processes, dynamical neuron networks, and hidden-state estimation, connecting these to reinforcement learning frameworks.
+- Studied dynamical models of neurons and neural networks.
+- Implemented machine learning models in relation to neuroscience concepts.
+- Built models of stochastic processes and hidden-state estimation, connecting these to reinforcement learning frameworks.
 
 ---
 
 ### Theoretical Physiology — UofT
 *Jan – Apr 2022*
 
-Trained a network on MNIST using backpropagation with Adam (MATLAB). Built a two-joint arm controller using CNNs and deep deterministic policy gradient — my first real encounter with deep RL.
+- Trained a neural network on MNIST using backpropagation with Adam in MATLAB.
+- Developed a two-joint arm controller using CNNs and deep deterministic policy gradient.
 
 ---
 
