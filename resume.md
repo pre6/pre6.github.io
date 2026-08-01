@@ -17,11 +17,13 @@ nav_order: 2
 ### Data Integration Specialist — ERIS (Environmental Risk Information Services)
 *Aug 2024 – Jan 2026 · North York, ON*
 
-- Conceived and delivered an NLP-based address parsing system using spaCy NER, pitching the idea directly to the Director of Data and bringing it to production six months later in collaboration with the lead data engineer — improving geocoding accuracy by ~50% and significantly reducing manual processing time.
-- Designed and maintained scalable ETL pipelines using PL/SQL and Python, integrating structured and spatial datasets into enterprise GIS systems.
-- Built automated data validation and QA frameworks to ensure high data integrity across ingestion and transformation stages.
+- Initiated and co-developed a BERT-based NLP address parsing system after identifying a recurring bottleneck in manual address review; the tool connects a fine-tuned NER model to a SQL database via a FastAPI service, reducing manual processing effort and improving geocoding accuracy by 50%.
+- Built a PL/SQL framework, including an auto-generation procedure for new-source load scripts. This cut standard setup time from 2 hours to 15mins, ( 88% reduction) and eliminating redundant scripting work across the integration team.
+- Designed and ran QA validation scripts to verify row counts, flag anomalies, and cross-check loaded data against source files, catching data quality issues before they reached client-facing reports.
+- Led evaluation of incoming data sources against domain and report requirements, assessing whether source content aligned with client-facing deliverables before pipeline ingestion.
+- Developed shared data cleaning and automation practices adopted across the integration team, standardizing workflows and reducing duplicated effort.
 - Integrated geospatial datasets (SHP, GDB) into GIS pipelines, ensuring compatibility with ESRI geocoding and spatial analysis tools.
-- Trained and onboarded new team members, ensuring effective knowledge transfer and adherence to best practices.
+- Partnered with clients and internal analysts to interpret multi-agency datasets and resolve data quality issues, translating complex source discrepancies into clear, actionable answers for client queries.
 
 ERIS was a first real immersion in a corporate data engineering environment, and it confirmed something already suspected: the most satisfying problems are the ones where software can quietly take the pain out of someone's day. The address parser started as a personal project — address standardization was tedious, error-prone work the team did manually in SQL, and it seemed like exactly the kind of thing a model could learn. The idea was pitched directly to the Director of Data, a proof of concept was built, and six months later it was in production. Working closely with the lead data engineer to fit it into the existing pipeline, and then watching team members spend noticeably fewer hours on parsing — that's the kind of outcome that makes the work feel worth it.
 
