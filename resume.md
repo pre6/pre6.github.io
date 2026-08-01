@@ -74,7 +74,11 @@ Mathnasium is where writing software to solve a real problem first clicked. The 
 - Completed coursework across machine learning, statistical inference, data engineering, and visualization.
 - **[Project placeholder]** — [brief description]
 - **[Project placeholder]** — [brief description]
-- **Capstone with Synopsys/ANSYS** — developed a predictive model in a real business context, working with stakeholders to define the prediction target before any modelling began.
+
+#### Capstone with Synopsys/ANSYS #### 
+- Ansys/Synopsys (Simulation Behaviour Prediction): Built a leakage-controlled DuckDB pipeline processing raw telemetry data into model-ready tables, collapsing a hierarchies and engineering features (log-transforms, ratio features, tier bucketing) validated against physical domain expectations.
+- Compared 6 modelling approaches (Random Forest, XGBoost, LightGBM classification, a soft-routing classification/regression hybrid, MLP, and FT-Transformer) on identical group-aware splits to predict simulation behavior, prioritizing under-provisioning risk over raw accuracy when selecting each target's final model.
+- Achieved 92.5% classification accuracy (2.8% under-provision rate) and 98.6% R² on behavior prediction; addressed heavy-tailed target distributions using quantile regression and a soft-routing pipeline that cut under-provisioning on heavy jobs from 71.5% to 41.1%.
 
 The MDS program moves fast by design, and it taught as much about focus and working with people under pressure as it did about methods. The capstone was the clearest lesson in what separates a well-scoped ML problem from an ambiguous one — the hardest part wasn't the model, it was the alignment.
 
