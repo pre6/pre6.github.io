@@ -1,13 +1,11 @@
 ---
-title: thoughts
 layout: default
+title: Blog
 nav_order: 3
+has_children: true
+permalink: /blog
 ---
 
-# Projects
+# Blog
 
-## Cool App
-Description of what you built.
-
-## Another Project
-What it does, tech used, etc.
+Welcome to my blog.
