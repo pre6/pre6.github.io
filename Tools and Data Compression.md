@@ -21,3 +21,6 @@ It was the challenge that I wanted. Therefore, I took one computer science class
 major as Neuroscience and Physiology because, well, I don't know. 
 
 Fast forward a couple years and I am working as a Data Analyst. It's February 19th 2024 and I write this in my journal:
+
+
+![Journal Excerpt Feb 19th 2024](/assets/images/feb_19.png)
