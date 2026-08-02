@@ -80,8 +80,6 @@ As an instructor, the philosophy that stuck was always teaching the *why* before
 - Compared 6 modelling approaches (Random Forest, XGBoost, LightGBM classification, a soft-routing classification/regression hybrid, MLP, and FT-Transformer) on identical group-aware splits to predict simulation behavior, prioritizing under-provisioning risk over raw accuracy when selecting each target's final model.
 - Achieved 92.5% classification accuracy (2.8% under-provision rate) and 98.6% R² on behavior prediction; addressed heavy-tailed target distributions using quantile regression and a soft-routing pipeline that cut under-provisioning on heavy jobs from 71.5% to 41.1%.
 
-The MDS program moves fast by design, and it taught as much about focus and working with people under pressure as it did about methods. The capstone was the clearest lesson in what separates a well-scoped ML problem from an ambiguous one — the hardest part wasn't the model, it was the alignment.
-
 ---
 
 ### Honours Bachelor of Science — University of Toronto
