@@ -2,7 +2,7 @@
 layout: default
 title: Tools and Data Compression
 parent: Blog
-nav_order: 2
+nav_order: 1
 ---
 
 # Tools as a means of Data Compression
