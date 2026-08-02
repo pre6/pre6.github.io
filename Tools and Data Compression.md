@@ -8,8 +8,7 @@ nav_order: 1
 # Tools as a means of Data Compression
 
 I had an epiphany at work one day. I had successfully identified an area of my work where a tool could be made, and then suddenly
-I understood data compression. To understand my thought process lets go back all the way to the beginning. I can do anything I want on this page,
-so I can do that, tell a story from the beginning.
+I understood data compression. To understand my thought process lets go back all the way to the beginning.
 
 When I was a kid, I had always tried to understand how our brains perceived reality. As a result, I went into Neuroscience in my undergrad (It was that or
 art school, but that's a whole other story). Upon studying Neuroscience, I quickly (or not so quickly) realized that we had no biological basis for
