@@ -8,4 +8,4 @@ permalink: /blog
 
 # Blog
 
-Welcome to my blog.
+I will be writing down my thoughts on various topics here
