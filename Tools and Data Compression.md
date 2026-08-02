@@ -37,7 +37,7 @@ a word was a form of data compressions and if we all do it the same way then it'
 
 At work I was always building tools and on July 06 2026 I wrote this in my journal:
 
-![Journal Excerpt July 6th 2024](/assets/images/jul_06.png)
+![Journal Excerpt July 6th 2024](/assets/images/jul_o6.png)
 
 
 
