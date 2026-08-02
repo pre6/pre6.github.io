@@ -25,7 +25,7 @@ nav_order: 2
 - Integrated geospatial datasets (SHP, GDB) into GIS pipelines, ensuring compatibility with ESRI geocoding and spatial analysis tools.
 - Partnered with clients and internal analysts to interpret multi-agency datasets and resolve data quality issues, translating complex source discrepancies into clear, actionable answers for client queries.
 
-ERIS was a first real immersion in a corporate data engineering environment, and it confirmed something already suspected: the most satisfying problems are the ones where software can quietly take the pain out of someone's day. The address parser started as a personal project — address standardization was tedious, error-prone work the team did manually in SQL, and it seemed like exactly the kind of thing a model could learn. The idea was pitched directly to the Director of Data, a proof of concept was built, and six months later it was in production. Working closely with the lead data engineer to fit it into the existing pipeline, and then watching team members spend noticeably fewer hours on parsing — that's the kind of outcome that makes the work feel worth it.
+ERIS was a first real immersion in a corporate data engineering environment, and it confirmed something already suspected: the most satisfying problems are the ones where software can quietly take the pain out of someone's day. The address parser started as a personal project: address standardization was tedious, error-prone work the team did manually in SQL, and it seemed like exactly the kind of thing a model could learn. The idea was pitched directly to the Director of Data, a proof of concept was built, and six months later it was in production. Working closely with the lead data engineer to fit it into the existing pipeline, and then watching team members spend noticeably fewer hours on parsing, that's the kind of outcome that makes the work feel worth it.
 
 **Key tools:** Python · spaCy · PL/SQL · dbt · ESRI/GIS · ETL pipeline design
 
@@ -62,7 +62,9 @@ This role was where comfort with the messy, real-world side of data was built. T
 - Trained and mentored instructors; implemented structured teaching strategies that improved student performance from 60% to 90%+.
 - Led scheduling operations and day-to-day center management.
 
-Mathnasium is where writing software to solve a real problem first clicked. The scheduling tool started small — turning a CSV into a spreadsheet — and grew into something with OAuth, Git branches, and actual users depending on it every day. It was a first taste of what it means to ship something. As an instructor, the philosophy that stuck was always teaching the *why* before the *what*: understanding from the root up, not drilling from the top down. That approach shaped how mathematics was learned at university too — the math scores were always the strongest, and that's not a coincidence.
+Mathnasium is where writing software to solve a real problem first clicked. The scheduling tool started small, turning a CSV into a spreadsheet, and grew into something with OAuth, Git branches, and actual users depending on it every day. It was a first taste of what it means to ship something. 
+
+As an instructor, the philosophy that stuck was always teaching the *why* before the *what*: understanding from the root up, not drilling from the top down. That approach shaped how mathematics was learned at university too — the math scores were always the strongest, and that's not a coincidence.
 
 ---
 
@@ -70,10 +72,6 @@ Mathnasium is where writing software to solve a real problem first clicked. The 
 
 ### Master of Data Science — University of British Columbia
 *Sept 2025 – Present · Kelowna, BC*
-
-- Completed coursework across machine learning, statistical inference, data engineering, and visualization.
-- **[Project placeholder]** — [brief description]
-- **[Project placeholder]** — [brief description]
 
 #### Capstone with Synopsys/ANSYS #### 
 - Ansys/Synopsys (Simulation Behaviour Prediction): Built a leakage-controlled DuckDB pipeline processing raw telemetry data into model-ready tables, collapsing a hierarchies and engineering features (log-transforms, ratio features, tier bucketing) validated against physical domain expectations.
