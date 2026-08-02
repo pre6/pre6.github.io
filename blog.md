@@ -1,6 +1,6 @@
 ---
 layout: default
-title: thoughts
+title: blog
 nav_order: 3
 has_children: true
 permalink: /blog
