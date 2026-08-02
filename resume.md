@@ -73,6 +73,8 @@ As an instructor, the philosophy that stuck was always teaching the *why* before
 ### Master of Data Science — University of British Columbia
 *Sept 2025 – Present · Kelowna, BC*
 
+- Completed coursework across machine learning, statistical inference, data engineering, and visualization.
+
 #### Capstone with Synopsys/ANSYS #### 
 - Ansys/Synopsys (Simulation Behaviour Prediction): Built a leakage-controlled DuckDB pipeline processing raw telemetry data into model-ready tables, collapsing a hierarchies and engineering features (log-transforms, ratio features, tier bucketing) validated against physical domain expectations.
 - Compared 6 modelling approaches (Random Forest, XGBoost, LightGBM classification, a soft-routing classification/regression hybrid, MLP, and FT-Transformer) on identical group-aware splits to predict simulation behavior, prioritizing under-provisioning risk over raw accuracy when selecting each target's final model.
