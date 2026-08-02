@@ -4,4 +4,4 @@ layout: home
 nav_order: 2
 ---
 
-Hi, I'm *Preethi Vezhavendan* and I like to chase interesting problems. 
+Hi, I'm *preethi* and I like to chase interesting problems. 
